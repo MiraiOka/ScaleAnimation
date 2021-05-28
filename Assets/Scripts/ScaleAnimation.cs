@@ -6,7 +6,7 @@ public class ScaleAnimation : MonoBehaviour
 {
     void Update()
     {
-        float transScale = 0.5f * Time.deltaTime;
+        float transScale = 1f * Time.deltaTime;
         this.gameObject.transform.localScale += new Vector3(transScale, transScale, transScale);
     }
 }
