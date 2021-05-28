@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{15523EBB-28E7-D421-B5D4-0E9FF41DD4AB}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScaleAnimation.cs">
     <Files>
-      <File FileName="Assets/Scripts/ScaleAnimation.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/ScaleAnimation.cs" Line="10" Column="96" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ad5e673f-0959-44dd-bfcb-8750d050312a" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b98ad8a5-15bd-46ca-bc9c-098b71d10e93" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
